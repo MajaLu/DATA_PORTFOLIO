@@ -10,3 +10,5 @@ Data analysis projects
 
 * Packages: pandas, numpy, plotly, seaborn, matplotlib
 * Data from 100 days of Code(Python)
+
+![](/images/newplot.png)
