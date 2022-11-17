@@ -8,5 +8,5 @@ Data analysis projects
 * Which fields won the most Nobels? 
 * What year has the most Nobel prize winners? etc.
 
-### Packages: pandas, numpy, plotly, seaborn, matplotlib
-### Data from 100 days of Code(Python)
+* Packages: pandas, numpy, plotly, seaborn, matplotlib
+* Data from 100 days of Code(Python)
