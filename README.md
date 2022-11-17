@@ -1,4 +1,4 @@
-theme: minima
+
 # DATA_PORTFOLIO
 Data analysis projects
 
