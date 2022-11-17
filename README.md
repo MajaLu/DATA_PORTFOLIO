@@ -21,3 +21,5 @@ Data analysis projects
 * Packages: pandas, numpy, plotly, seaborn, matplotlib
 * This is a project that is the part of 100 Days Of Python(Udemy) course.
 
+![](/images/fatalforce.png)
+
