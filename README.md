@@ -30,6 +30,6 @@ Data analysis projects
 * Packages: pandas, numpy, plotly, seaborn, matplotlib
 * This project is the part of 100 Days Of Python(Udemy) course.
 
-![](/images/image handwashing.png)
+![](/images/handwashing.png)
 
 
