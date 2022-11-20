@@ -24,3 +24,10 @@ Data analysis projects
 
 ![](/images/fatalforce.png)
 
+# [Project 3 : Data_Analysis_Handwashing_Discovery : Project Overview](https://github.com/MajaLu/Data_Analysis_Handwashing_Discovery/blob/main/Dr_Semmelweis_Handwashing_Discovery.ipynb)
+* Data Analysis of Dr Semmelweis Handwashing Discovery in 1861.
+* Includes preliminary data exploration, data visualisation
+* Packages: pandas, numpy, plotly, seaborn, matplotlib
+* This project is the part of 100 Days Of Python(Udemy) course.
+
+
