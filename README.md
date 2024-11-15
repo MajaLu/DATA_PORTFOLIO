@@ -32,11 +32,13 @@ Data analysis projects
 
 ![](/images/handwashing.png)
 
-# [Project 4 : Data_Analysis_Purchase_Patterns]([https://github.com/MajaLu/Data_Analysis_Handwashing_Discovery/blob/main/Dr_Semmelweis_Handwashing_Discovery.ipynb](https://github.com/MajaLu/Purchase_behavior_analysis.git))
+# [Project 4 : Data_Analysis_Purchase_Patterns](https://github.com/MajaLu/Data_Analysis_Handwashing_Discovery/blob/main/Dr_Semmelweis_Handwashing_Discovery.ipynb)
 * Comprehensive analysis of purchase behavior influenced by gender, age, country, and product category.
 * Includes data cleaning, exploratory data analysis (EDA), linear regression, ANOVA, and T-tests.
 * Assesses the normality of data distributions, trends by demographic, and seasonal insights.
 * Packages: pandas, numpy, matplotlib, seaborn, scipy, statsmodels, scikit-learn.
 * This project is designed to understand the impact of various demographic and categorical factors on purchase behavior.
+
+  ![](/images/analysis_purchase.png)
 
 
