@@ -34,7 +34,7 @@ Data analysis projects
 
 # [Project 4 : Data_Analysis_Purchase_Patterns](https://github.com/MajaLu/Purchase_behavior_analysis.git)
 * Comprehensive analysis of purchase behavior influenced by gender, age, country, and product category.
-* Includes data cleaning, exploratory data analysis (EDA), linear regression, ANOVA, and T-tests.
+* Includes data cleaning, exploratory data analysis (EDA), linear regression, and T-tests. Kruskal-Wallis and Dunn's Posthoc.
 * Assesses the normality of data distributions, trends by demographic, and seasonal insights.
 * Packages: pandas, numpy, matplotlib, seaborn, scipy, statsmodels, scikit-learn.
 * This project is designed to understand the impact of various demographic and categorical factors on purchase behavior.
