@@ -41,4 +41,13 @@ Data analysis projects
 
   ![](/images/analysis_purchase.png)
 
+# [Project 5 : High-Frequency Trading Anomaly Detection](https://github.com/MajaLu/high-frequency-trading-anomaly-detection)
+* End-to-end analysis of synthetic trading activity to identify unusual account behavior using SQL, Python, statistical analysis, and machine learning.
+* Compares Z-score analysis with Isolation Forest and evaluates results against deliberately planted synthetic test cases.
+* Includes interactive dashboards for exploring anomaly counts, cancellation rates, anomaly scores, and account behavior.
+* Tools: Python, pandas, scikit-learn, SQLite, SQL, Tableau, Streamlit.
+* The data is synthetic; anomaly flags indicate patterns for review, not confirmed fraud or misconduct.
+
+![](/images/hft_model_comparison.png)
+
 
